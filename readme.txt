@@ -1,2 +1,2 @@
-slider.zip - только HTML и CSS
+slider.zip - HTML + CSS
 slider_js.zip - HTML + CSS + JS
